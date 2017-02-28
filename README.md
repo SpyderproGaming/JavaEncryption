@@ -5,5 +5,4 @@ This program is currently insanely secure. From release 3.3 deciphering a 10 pas
 If you use a password that consists of words and no symbols any real threat can easily crack your password with a brute force or dictionary attack. Random passwords of length 24 allow for 93^24 (1.7522286e47) combinations that a computer has to try in order to decrypt your message. (93 is derived from all typable characters, ASCII 33-126)
 
 TL:DR
-
 These messages are uncrackable unless your password is weak and the opposition has access to this software along with the skills needed.
